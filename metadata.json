@@ -1,0 +1,6 @@
+{
+  "name": "Cryptbound",
+  "description": "Top-down pixel-art dungeon and monster crawler with procedural floors, turn-based combat, persistent world map, offline saves, and LAN multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
